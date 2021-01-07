@@ -6,7 +6,7 @@ class AppSignIn extends StatefulWidget {
   @override
   _AppSignInState createState() => _AppSignInState();
 }
-
+//TODO: Use Firebase to sign up, sign in to your account
 class _AppSignInState extends State<AppSignIn> {
   @override
   Widget build(BuildContext context) {

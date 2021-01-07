@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ecommerce_app/components/AppSignIn.dart';
 
+//TODO: Use Firebase to sign up, sign in to your account
+
 class AppSingUp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
